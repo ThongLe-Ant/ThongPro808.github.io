@@ -1,4 +1,3 @@
-
 Đối tượng
 amount gift
 mỗi ưu đãi ứng nhiều quà tặng
@@ -15,6 +14,6 @@ hàm get data thiếu bổ sung
 6. git branch tạo branch mới
 7. git branch  - > xem các branch local dấu * đang cho biết ở branch nào
 Trường hợp không muốn đưa lên thêm file hoặc tên thư mục vào .gitignore
-
+-- test merge brach
 
 
