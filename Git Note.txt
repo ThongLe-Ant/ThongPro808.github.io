@@ -1,0 +1,20 @@
+
+Đối tượng
+amount gift
+mỗi ưu đãi ứng nhiều quà tặng
+Tab Index
+Read only url
+kiểm tra data đã lưu
+hàm get data thiếu bổ sung
+
+1.git status kiểm tra có gì mới không
+2.git add . thêm fiel mới vào
+3.git commit - m "them file"  commit
+4.git push đẩy lên server
+5. git pull lấy code xuống
+6. git branch tạo branch mới
+7. git branch  - > xem các branch local dấu * đang cho biết ở branch nào
+Trường hợp không muốn đưa lên thêm file hoặc tên thư mục vào .gitignore
+
+
+
