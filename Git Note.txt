@@ -14,6 +14,19 @@ hàm get data thiếu bổ sung
 6. git branch tạo branch mới
 7. git branch  - > xem các branch local dấu * đang cho biết ở branch nào
 Trường hợp không muốn đưa lên thêm file hoặc tên thư mục vào .gitignore
--- test merge brach
-- test comit
+ -- 
+ Get master (pull)
+- Về master
+- Rmouse > Pull về
+- 1. (update branch) Về branch của mình > Rmouse > merge from Master > Merge
+2. (new branch) rmouse > New branch...
+
+Commit:
+Changes > nhập note > commit
+
+Push > merge request
+Sync > Push 
+Lên git tạo merge request
+
+pull master, push my branch
 
